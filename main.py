@@ -4,11 +4,11 @@
 
 # AREA DE ESCRITURA PARA XIOMARA
 
-def sumar (numero_uno, numero_dos):
-    return numero_uno + numero_dos
+def sumar (a, b):
+    return a + b
 
-def restar (primer_numero, segundo_numero):
-   return primer_numero - segundo_numero
+def restar (a, b):
+   return a - b
 
 #------------------------------------
 
