@@ -7,3 +7,9 @@
 #------------------------------------
 
 # AREA DE ESCRITURA PARA GINO
+
+def multiplicar(a, b):
+    return a * b
+
+def dividir(a, b):
+    return a / b
