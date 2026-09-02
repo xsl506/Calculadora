@@ -4,18 +4,18 @@
 
 # AREA DE ESCRITURA PARA XIOMARA
 
-def sumar (a, b):
-    return a + b
+def sumar (x, y):
+    return x + y
 
-def restar (numero_uno, numero_dos):
-   return numero_uno - numero_dos
+def restar (x, y):
+   return x - y
 
 #------------------------------------
 
 # AREA DE ESCRITURA PARA GINO
 
-def multiplicar(a, b):
-    return a * b
+def multiplicar(x, y):
+    return x * y
 
-def dividir(a, b):
-    return a / b
+def dividir(x, y):
+    return x / y
