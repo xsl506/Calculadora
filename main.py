@@ -7,8 +7,8 @@
 def sumar (a, b):
     return a + b
 
-def restar (a, b):
-   return a - b
+def restar (numero_uno, numero_dos):
+   return numero_uno - numero_dos
 
 #------------------------------------
 
