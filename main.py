@@ -4,8 +4,8 @@
 
 # AREA DE ESCRITURA PARA XIOMARA
 
-def sumar (a, b):
-    return a + b
+def sumar (x, y):
+    return x + y
 
 def restar (a, b):
    return a - b
@@ -17,5 +17,5 @@ def restar (a, b):
 def multiplicar(numero_uno, numero_dos):
     return numero_uno * numero_dos
 
-def dividir(numero_uno, numero_dos):
-    return numero_uno / numero_dos
+def dividir(x, y):
+    return x / y
